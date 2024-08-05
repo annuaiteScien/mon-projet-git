@@ -1,4 +1,4 @@
-def dire_bonjour():
-    print("Bonjour, Git!")
+def dire_salut():
+    print("Salut, Git!")
 
-dire_bonjour()
+dire_salut()
